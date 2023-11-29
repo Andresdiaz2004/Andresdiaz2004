@@ -1,4 +1,9 @@
 git clone <paste_repository_url>
 cd MTH4000  # Navigate to the cloned repository
 
+git add .  # Stage all changes, including the copied notebook file
+git commit -m "Add and modify week10.ipynb copy"  # Commit the changes
+git push origin main  # Push the changes to your GitHub repository
+
+
 
